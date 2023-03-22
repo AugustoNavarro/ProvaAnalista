@@ -1,0 +1,11 @@
+create database fiotec;
+use fiotec;
+CREATE TABLE `arquivos` (
+  `id` int NOT NULL AUTO_INCREMENT,
+  `nomedoarquivo` VARCHAR(300) NOT NULL,
+  `remetente` text NOT NULL,
+  `destinatario` text NOT NULL,
+  `datahoraemail` text NOT NULL,
+  `conteudo` text NOT NULL,
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `nomedoarquivo_UNIQUE` (`nomedoarquivo`));
