@@ -1,6 +1,5 @@
 # ProvaAnalista
-2 tarefas realizadas para consulta, inserção de dados entre o sitema via console para o banco de dados (MySQL)
-
+Tarefas realizadas para consulta, inserção de dados entre o sitema via console para o banco de dados (MySQL)
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 Visual Studio 2019
